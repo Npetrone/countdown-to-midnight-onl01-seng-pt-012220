@@ -4,3 +4,4 @@ def countdown
   puts "10 - #{number} SECONDS!"
   number -= 1
 end
+end
